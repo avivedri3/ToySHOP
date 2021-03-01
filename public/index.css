@@ -1,0 +1,54 @@
+body{
+  background-color: silver;
+}
+header{
+  background-image: url(images/cover.jpg);
+  min-height: 400px;
+  background-position: center;
+  background-size: cover;
+}
+
+h1{
+  font-family: 'Luckiest Guy', cursive;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  color: rgb(212, 84, 37);
+
+}
+
+main{
+  text-align: center;
+  width: 40%;
+  margin: 0 auto;
+}
+
+li{
+  border: 2px solid rgb(212, 84, 37);
+  margin-bottom: 16px;
+padding: 4px;
+  
+}
+
+span{
+  font-size: 1.4em;
+  color: red;
+}
+
+@media screen and (max-width: 976px){
+  main{
+    width: 70%;
+      }
+}
+
+
+@media screen and (max-width: 491px){
+  header{
+    height: 200px;
+  }
+  main{
+    width: 80%;
+      }
+}
+
+

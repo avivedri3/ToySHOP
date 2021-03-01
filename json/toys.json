@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Domino",
+    "info": "Challenging and strategic game!",
+    "category": "Box games",
+    "img_url": "https://images.pexels.com/photos/3769167/pexels-photo-3769167.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "price": 50
+  },
+  {
+    "name": "Monopoly",
+    "info": "Game fot whole family",
+    "category": "Box games",
+    "img_url": "https://images.pexels.com/photos/4792375/pexels-photo-4792375.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "price": 170
+  },
+  {
+    "name": "Ladders and snakes",
+    "info": "Lucky game!",
+    "category": "Box games",
+    "img_url": "https://images.pexels.com/photos/4691579/pexels-photo-4691579.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "price": 50
+  },
+  {
+    "name": "Super mario",
+    "info": "Help Super Mario win!!",
+    "category": "Video Games",
+    "img_url": "https://images.pexels.com/photos/371924/pexels-photo-371924.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+    "price": 120
+  },
+  {
+    "name": "GTA",
+    "info": "The mission game in the world of crime",
+    "category": "Video Games",
+    "img_url": "https://images.unsplash.com/photo-1599604079629-bb0dfe72f847?ixid=MXwxMjA3fDB8MHxzZWFyY2h8M3x8Z3RhfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 75
+  },
+  {
+    "name": "Strange Things",
+    "info": "Strange and fun game",
+    "category": "Video Games",
+    "img_url": "https://images.pexels.com/photos/2708981/pexels-photo-2708981.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260",
+    "price": 30
+  },
+  {
+    "name": "puzzle",
+    "info": "A game for the whole family",
+    "category": "Box games",
+    "img_url": "https://images.unsplash.com/photo-1588591795084-1770cb3be374?ixid=MXwxMjA3fDB8MHxzZWFyY2h8OHx8YmFza2V0YmFsbCUyMHZpZGVvJTIwZ2FtZXxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 50
+  },
+  {
+    "name": "Car Race",
+    "info": "A challenging experience in the world of racing",
+    "category": "Video Games",
+    "img_url": "https://images.unsplash.com/photo-1587021107506-150b694f2950?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fHRla2VuJTIwdmlkZW8lMjBnYW1lfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 100
+  },
+  {
+    "name": "Rubiks Cube",
+    "info": "Famous strategy game",
+    "category": "Mind Games",
+    "img_url": "https://images.unsplash.com/photo-1573694279179-764ff2597b5b?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTV8fHRoaW5raW5nJTIwZ2FtZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 25
+  },
+  {
+    "name": "Chess",
+    "info": "Brainstorming on the board",
+    "category": "Mind Games",
+    "img_url": "https://images.unsplash.com/photo-1604948501466-4e9c339b9c24?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8dGhpbmtpbmclMjBnYW1lc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 70
+  },
+  {
+    "name": "Sony Playstation",
+    "info": "A game for all friends!",
+    "category": "Video Games",
+    "img_url": "https://images.unsplash.com/photo-1591196702597-062a87208fed?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NTZ8fHRoaW5raW5nJTIwZ2FtZXN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 450
+  },
+  {
+    "name": "Cards",
+    "info": "A variety of games in one game",
+    "category": "Box games",
+    "img_url": "https://images.unsplash.com/photo-1541278107931-e006523892df?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Y2FyZHN8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 15
+  },
+  {
+    "name": "Memory Game",
+    "info": "Check your memory!!",
+    "category": "Mind games",
+    "img_url": "https://images.unsplash.com/photo-1601162937667-08f083516d57?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MTZ8fG1pbmQlMjBnYW1lc3xlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 10
+  },
+  {
+    "name": "Janga",
+    "info": "Build a building with the help of the brain",
+    "category": "Mind games",
+    "img_url": "https://images.unsplash.com/photo-1601987177651-8edfe6c20009?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8bWluZCUyMGdhbWVzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 20
+  },
+  {
+    "name": "Scrabble",
+    "info": "Word game!",
+    "category": "Mind games",
+    "img_url": "https://images.unsplash.com/photo-1607428122671-5d59ed8af6a3?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NXx8bWluZCUyMGdhbWVzfGVufDB8fDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60",
+    "price": 55
+  }
+]
